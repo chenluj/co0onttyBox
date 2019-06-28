@@ -53,5 +53,3 @@ public function con_function(){
 - CSRF：这里我没有写，因为没有什么必要，当时讲课的时候是想到完全可以结合其他的漏洞类型讲解
 
 除此之外还有一些poc、exp在项目中，自己发现咯~
-
-如果有建议或者问题可以发送到邮箱:gh0stkey@qq.com
